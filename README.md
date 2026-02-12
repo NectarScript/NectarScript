@@ -10,13 +10,11 @@ I’m an Information Technology student exploring Python, AI development, and Sa
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NectarScript&theme=blue_navy&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NectarScript&theme=blue_navy&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NectarScript&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NectarScript&theme=blue_navy&hide_border=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=NectarScript&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NectarScript&theme=blue_navy&hide_border=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
