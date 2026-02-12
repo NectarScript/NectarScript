@@ -1,5 +1,13 @@
 # About Me:
-I’m an Information Technology student exploring Python, AI development, and Salesforce technologies. I enjoy building small real-world projects to understand how software works in practice and continuously improving my programming skills.<br><br>🔭 I’m currently working on Python and Salesforce-based projects<br>👯 I’m looking to collaborate on beginner-friendly Python or CRM projects<br>🤝 I’m looking for help with improving project structure and best coding practices<br>🌱 I’m currently learning Python, Java fundamentals, and Salesforce development<br>💬 Ask me about Python projects, AI chatbot basics, or my learning journey<br>⚡ Fun fact: I like experimenting with new tech by turning simple ideas into working prototypes<br>
+I’m an Information Technology student focused on developing practical skills in Python and Salesforce. I work on small, hands-on projects to strengthen my understanding of software development, backend logic, and real-world problem solving.
+
+🔭 Currently building Python and Salesforce-based applications
+👯 Open to collaborating on Python or CRM-focused student projects
+🤝 Seeking feedback on project architecture and code quality
+🌱 Learning Python, Java fundamentals, and Salesforce development
+💬 Available to discuss Python projects and beginner AI implementations
+⚡ I enjoy turning simple ideas into functional prototypes to explore new technologies
+
 
 
 ## Connect with me:
